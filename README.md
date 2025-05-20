@@ -1,6 +1,8 @@
 📋 StaffSync - Sistema de Gestão de Funcionários Multilíngue
-Python
-License
+
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 StaffSync é um sistema desktop completo para gestão de colaboradores com suporte a múltiplos idiomas, desenvolvido em Python com interface Tkinter.
 
